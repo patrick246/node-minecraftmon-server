@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="node-minecraftmon-server" pattern="file[node-minecraftmon-server]:*/&amp;&amp;!file[node-minecraftmon-server]:.idea//*&amp;&amp;!file[node-minecraftmon-server]:node_modules//*&amp;&amp;!file:.gitignore&amp;&amp;!file:LICENSE" />
+</component>

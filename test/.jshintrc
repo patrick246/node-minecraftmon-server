@@ -1,0 +1,23 @@
+{
+  "bitwise": true,
+  "browser": true,
+  "curly": false,
+  "eqeqeq": true,
+  "latedef": true,
+  "noarg": true,
+  "node": true,
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "globals": {
+    "angular": false,
+    "inject": false
+  },
+  "freeze": true,
+  "funcscope": true,
+  "futurehostile": true,
+  "singleGroups": true,
+  "evil": true,
+  "mocha": true,
+  "expr": true
+}
